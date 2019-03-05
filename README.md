@@ -1,21 +1,17 @@
 # kaggle-data-science
 my data-science notebooks submitted in kaggle competition
 
-Heart Disease Classification with Keras
+>****Heart Disease Classification with Keras****
 https://www.kaggle.com/mychen76/heart-disease-classification-with-keras
 Heart sounds analysis and classification with LSTM
 https://www.kaggle.com/mychen76/heart-sounds-analysis-and-classification-with-lstm
 
-
-Automatic Urban sounds analysis and classification with CNN
+>****Automatic Urban sounds analysis and classification with CNN**** 
 https://www.kaggle.com/mychen76/automatic-urban-sound-classification-with-cnn
 
-
-Digit recognizer
+>****Digit recognizer**** 
 https://www.kaggle.com/mychen76/hand-writing-digit-recognition-in-deep-learning
 
-
-Predict house price
+>****Predict house price**** 
 https://www.kaggle.com/mychen76/predict-house-prices-with-ml-regressor
-
 
