@@ -7,7 +7,7 @@ Heart sounds analysis and classification with LSTM
 https://www.kaggle.com/mychen76/heart-sounds-analysis-and-classification-with-lstm
 
 
-Urban sounds analysis and classification with LSTM
+Automatic Urban sounds analysis and classification with CNN
 https://www.kaggle.com/mychen76/automatic-urban-sound-classification-with-cnn
 
 
